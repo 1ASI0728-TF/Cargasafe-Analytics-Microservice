@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+
+.idea/
+*.iml
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+.mvn/timing.properties
+.DS_Store
